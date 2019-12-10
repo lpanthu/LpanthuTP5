@@ -20,6 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << "Ceci est un test" <<endl;
+    cout << "Deuxième test" << endl;
     return 0;
 }
 
