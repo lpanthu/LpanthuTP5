@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout << "Ceci est un test" <<endl;
     cout << "Deuxième test" << endl;
+    cout << "Partie 6.4 du TP5" << endl;
     return 0;
 }
 
